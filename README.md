@@ -16,8 +16,12 @@
 
 <br/><br/>
 
+<a href="https://www.linkedin.com/in/gayatri-bhusare/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/gayatribhusare2005">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -64,4 +68,4 @@ public class GayatriBhusare {
     };
 
     String goal = "Become a skilled Software Developer";
-}# gayatri_bhusare
+}
