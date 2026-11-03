@@ -1,199 +1,340 @@
 
 <div align="center">
 
-# GAYATRI BHUSARE
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling"/>
 
-### Java Full Stack Developer | Computer Science Graduate
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=80&lines=GAYATRI+BHUSARE"/>
 
-**Java • Spring Boot • REST APIs • SQL • PostgreSQL**
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2500&pause=1000&color=E2F3FF&center=true&vCenter=true&width=850&height=55&lines=JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+%7C+SQL+%7C+HIBERNATE;BUILDING+REAL+WORLD+PROJECTS;LEARN+%7C+BUILD+%7C+GROW"/>
 
-[LinkedIn](https://www.linkedin.com/in/gayatri-bhusare/) • [GitHub](https://github.com/gayatribhusare2005)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gayatribhusare2005&style=flat-square&color=0e75b6)
+<img src="https://img.shields.io/badge/ROLE-JAVA%20FULL%20STACK%20DEVELOPER-0284C7?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-FRESHER-0284C7?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LOCATION-PUNE%2C%20INDIA-0284C7?style=for-the-badge&labelColor=020617"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/gayatri-bhusare/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gayatribhusare2005">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gayatribhusare2005&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 01. About Me
+<div align="center">
 
-Hello! I'm **Gayatri Bhusare**, a Computer Science graduate and aspiring Java Full Stack Developer from Pune, Maharashtra.
+# ✨ ABOUT ME
 
-I enjoy building practical applications, solving programming problems, and learning new technologies. I am currently strengthening my backend and full-stack development skills through hands-on projects and training.
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=40&lines=WHO+AM+I%3F"/>
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hello, I'm Gayatri! 👋
+
+I'm a Computer Science graduate and aspiring **Java Full Stack Developer** from Maharashtra, India.
+
+I enjoy developing applications, learning new technologies, and solving programming problems.
 
 - 🎓 B.Tech in Computer Science
-- 💻 Interested in Java Full Stack Development
-- 🚀 Working with Spring Boot and REST APIs
-- 🗄️ Learning database development with SQL and PostgreSQL
-- 📚 Continuously improving my technical and problem-solving skills
-- 🎯 Goal: To begin my career as a Software Developer
+- ☕ Core Java and OOP
+- 🚀 Spring Boot and REST APIs
+- 🗄️ SQL and PostgreSQL
+- 🌐 HTML, CSS and JavaScript
+- 🔧 Hibernate, JPA and JDBC
+- 🧪 Postman and Swagger
+- 💻 IntelliJ IDEA and Maven
+- 📚 Currently enhancing my full-stack development skills
+
+**My Goal:** To start my career as a Java Full Stack Developer and contribute to real-world software projects.
+
+</td>
+
+<td width="40%" valign="top">
+
+```java
+public class Gayatri {
+
+    String name = "Gayatri Bhusare";
+
+    String role =
+        "Java Full Stack Developer";
+
+    String location =
+        "Pune, India";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "Hibernate",
+        "JPA",
+        "JavaScript"
+    };
+
+    String mindset =
+        "Always Learning 🚀";
+}
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 02. Technical Skills
+<div align="center">
 
-| Category | Skills |
-|---|---|
-| Programming Language | Core Java, OOP |
-| Backend Development | Spring Boot, Spring REST APIs, JDBC |
-| ORM Framework | Hibernate, JPA |
+# 💻 TECH ARSENAL
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=40&lines=TECHNOLOGIES+I+WORK+WITH"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,mysql,postgres,git,github,maven,idea,postman&theme=dark&perline=6"/>
+
+</div>
+
+| Domain | Technologies |
+|:---|:---|
+| Programming | Java, OOP |
+| Backend | Spring Boot, Spring REST APIs, JDBC |
+| ORM | Hibernate, JPA |
 | Database | SQL, PostgreSQL |
-| Frontend Development | HTML, CSS, JavaScript |
-| API Testing | Postman, Swagger |
-| IDE & Build Tool | IntelliJ IDEA, Maven |
+| Frontend | HTML, CSS, JavaScript |
+| API Tools | Postman, Swagger |
+| Development Tools | IntelliJ IDEA, Maven |
 | Version Control | Git, GitHub |
 
 ---
 
-## 03. Projects
+<div align="center">
 
-### Project 1: SmartQueue – Virtual Queue & Crowd Management System
+# 🚀 FEATURED PROJECTS
 
-**Description:**
+</div>
 
-SmartQueue is a digital queue management system designed to reduce physical waiting lines and improve the service experience. Users can generate digital tokens and track their queue status, while administrators can manage queues and service counters.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Key Features:**
+### 🔵 SmartQueue
+
+**Virtual Queue & Crowd Management System**
+
+A digital queue management application designed to reduce physical waiting lines and improve service management.
+
+**Key Features**
+
 - Digital token generation
 - Queue position tracking
 - Token status management
-- Queue and service management
-- Counter-based service handling
-- Designed for hospitals, banks, salons and offices
+- Service counter management
+- Reduced physical waiting lines
+- Useful for hospitals, banks, salons and offices
 
-**Technologies Used:**
+**Technologies**
 
-`Java` `Spring Boot` `Spring REST APIs` `JPA` `PostgreSQL` `HTML` `CSS` `JavaScript`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-**Project Workflow:**
+</td>
 
-```text
-User
-  |
-  v
-Select Service
-  |
-  v
-Join Queue
-  |
-  v
-Generate Digital Token
-  |
-  v
-Track Queue Position
-  |
-  v
-Counter Service
-  |
-  v
-Service Completed
+<td width="50%" valign="top">
+
+### 🟣 Online Examination System
+
+**Web-Based Examination Application**
+
+A web application developed to provide a simple online examination experience.
+
+**Key Features**
+
+- User login and registration
+- User profile
+- Login validation
+- Home page after login
+- Logout functionality
+- Certificate page
+
+**Technologies**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🔄 SMARTQUEUE WORKFLOW
+
+</div>
+
+```mermaid
+flowchart TD
+    A([👤 User]) --> B[Select Service]
+    B --> C[Join Queue]
+    C --> D[Generate Digital Token]
+    D --> E[Track Queue Position]
+    E --> F[Counter Service]
+    F --> G([Service Completed])
+
+    style A fill:#12306B,color:#fff,stroke:#38BDF8
+    style D fill:#12306B,color:#fff,stroke:#38BDF8
+    style G fill:#12306B,color:#fff,stroke:#38BDF8
 ```
 
 ---
 
-### Project 2: Online Examination System
-
-**Description:**
-
-Online Examination System is a web-based application developed to provide a simple online examination experience with user authentication and profile management.
-
-**Key Features:**
-- User login and registration
-- Login validation
-- User profile and home page
-- Logout functionality
-- Certificate page
-
-**Technologies Used:**
-
-`Java` `HTML` `CSS` `JavaScript`
-
----
-
-## 04. Technical Knowledge
-
-### Java
-- Object-Oriented Programming
-- Classes and Objects
-- Inheritance and Polymorphism
-- Abstraction and Encapsulation
-- Exception Handling
-- Collections Framework
-
-### Spring Boot
-- Dependency Injection
-- Spring REST APIs
-- Controller and Service Layers
-- Repository Layer
-- CRUD Operations
-
-### Database
-- SQL Queries
-- Joins
-- Subqueries
-- Primary Key and Foreign Key
-- PostgreSQL
-
-### Development Tools
-- IntelliJ IDEA
-- Maven
-- Git and GitHub
-- Postman
-- Swagger
-
----
-
-## 05. Currently Learning
-
-| Technology | Learning Focus |
-|---|---|
-| Advanced Java | Collections, JDBC, Servlets |
-| Spring Boot | REST API development |
-| Hibernate | ORM and entity relationships |
-| PostgreSQL | Database design and queries |
-| Git | Branching, merging and collaboration |
-| API Testing | Postman and Swagger |
-
----
-
-## 06. Strengths
-
-- **Problem Solving:** Enjoy understanding problems and finding practical solutions.
-- **Adaptability:** Comfortable learning new tools and technologies.
-- **Teamwork:** Believe in collaboration and sharing ideas.
-- **Continuous Learning:** Always interested in improving my technical knowledge.
-
----
-
-## 07. GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gayatribhusare2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+# 🏆 GITHUB ACHIEVEMENTS
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatribhusare2005&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=gayatribhusare2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="95%"/>
 
 </div>
 
 ---
 
-## 08. Career Objective
+<div align="center">
 
-To start my professional journey as a **Java Full Stack Developer** in an organization where I can apply my technical knowledge, learn from experienced professionals, contribute to real-world projects, and grow as a software developer.
+# 📊 GITHUB ANALYTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=gayatribhusare2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatribhusare2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=gayatribhusare2005&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 09. Connect With Me
+<div align="center">
+
+# 📅 MY CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatribhusare2005&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Coding%20Journey" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
 
-| Platform | Profile |
-|---|---|
-| LinkedIn | [Connect with me](https://www.linkedin.com/in/gayatri-bhusare/) |
-| GitHub | [Explore my repositories](https://github.com/gayatribhusare2005) |
+# 🌱 MY LEARNING ROADMAP
 
-**"Learn continuously. Build confidently. Grow consistently."**
+</div>
 
-*Thank you for visiting my profile!*
+| Technology | Learning Focus |
+|:---|:---|
+| Java | Core Java, OOP, Collections |
+| Spring Boot | REST APIs, Dependency Injection |
+| Hibernate / JPA | ORM and Database Connectivity |
+| PostgreSQL | SQL Queries and Database Design |
+| Frontend | HTML, CSS, JavaScript |
+| Git & GitHub | Version Control and Collaboration |
+| Postman & Swagger | API Testing and Documentation |
+
+---
+
+<div align="center">
+
+# 💡 WHAT I BRING
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Problem Solving
+
+I enjoy understanding problems and finding practical solutions.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤝 Teamwork
+
+I believe in sharing ideas, learning together and achieving goals.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📈 Growth Mindset
+
+I continuously learn new technologies and improve my development skills.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# ✨ MY DEVELOPER PHILOSOPHY
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br/><br/>
+
+### "Every expert was once a beginner."
+
+### "Learn. Build. Improve. Repeat." 💙
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 LET'S CONNECT
+
+### Building my skills, one project at a time!
+
+<a href="https://www.linkedin.com/in/gayatri-bhusare/">
+<img src="https://img.shields.io/badge/LinkedIn-Gayatri_Bhusare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/gayatribhusare2005">
+<img src="https://img.shields.io/badge/GitHub-Gayatri_Bhusare-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=false&width=650&height=40&lines=LEARN.+BUILD.+IMPROVE.+REPEAT."/>
+
+<br/><br/>
+
+<sub>Designed with 💙 by Gayatri Bhusare</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%"/>
 
 </div>
