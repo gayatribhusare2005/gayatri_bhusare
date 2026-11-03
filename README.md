@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" />
 
-# GAYATRI BHUSARE 👩‍💻
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=850&height=80&lines=GAYATRI+BHUSARE" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=800&height=80&lines=GAYATRI+BHUSARE" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2500&pause=1000&color=E2F3FF&center=true&vCenter=true&width=800&height=50&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+SQL+%7C+Hibernate;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=25&duration=2500&pause=1000&color=E2F3FF&center=true&vCenter=true&width=850&height=55&lines=JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+%7C+SQL+%7C+HIBERNATE;BUILDING+REAL+WORLD+PROJECTS;LEARN+%7C+BUILD+%7C+GROW" />
 
 <br/>
 
@@ -24,35 +22,57 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gayatribhusare2005&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-## 👩‍💻 ABOUT ME
+# ✨ ABOUT ME
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=45&lines=WHO+AM+I%3F" />
 
 </div>
 
-Hello! I'm **Gayatri Bhusare**, a Computer Science graduate and aspiring Java Full Stack Developer from Maharashtra, India.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I am passionate about Java development, backend technologies, and building practical web applications. I enjoy learning new technologies and improving my programming skills through hands-on projects.
+### Hello, I'm Gayatri! 👋
+
+I'm a Computer Science graduate and aspiring **Java Full Stack Developer** from Maharashtra, India.
+
+I enjoy developing applications, learning new technologies, and solving programming problems.
 
 - 🎓 B.Tech in Computer Science
-- ☕ Core Java and Object-Oriented Programming
-- 🚀 Spring Boot and Spring REST APIs
-- 🗄️ SQL and PostgreSQL
-- 🌐 HTML, CSS and JavaScript
-- 🔧 Hibernate, JPA and JDBC
-- 🧪 Postman and Swagger
-- 💻 IntelliJ IDEA and Maven
+- ☕ Core Java & OOP
+- 🚀 Spring Boot & REST APIs
+- 🗄️ SQL & PostgreSQL
+- 🌐 HTML, CSS & JavaScript
+- 🔧 Hibernate, JPA & JDBC
+- 🧪 Postman & Swagger
+- 💻 IntelliJ IDEA & Maven
+
+**My Goal:** To start my career as a Java Full Stack Developer and contribute to real-world software projects.
+
+</td>
+
+<td width="40%" valign="top">
 
 ```java
-public class GayatriBhusare {
+public class Gayatri {
 
     String name = "Gayatri Bhusare";
-    String role = "Java Full Stack Developer";
-    String location = "Pune, Maharashtra";
+
+    String role =
+        "Java Full Stack Developer";
+
+    String location =
+        "Pune, India";
 
     String[] skills = {
         "Java",
@@ -60,12 +80,9 @@ public class GayatriBhusare {
         "SQL",
         "Hibernate",
         "JPA",
-        "JDBC",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "PostgreSQL"
+        "JavaScript"
     };
 
-    String goal = "Become a skilled Software Developer";
+    String status =
+        "Always Learning 🚀";
 }
